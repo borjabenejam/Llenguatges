@@ -1,0 +1,341 @@
+!SESSION 2015-12-14 10:17:31.352 -----------------------------------------------
+eclipse.buildId=debbuild
+java.version=1.7.0_91
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=es_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:15.739
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:15.747
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:15.747
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:43.474
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:43.477
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:19:43.478
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:20:30.925
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:20:30.929
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:20:30.930
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:36.970
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:36.977
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:36.978
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:55.368
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:55.375
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:21:55.377
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:22:00.363
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:22:00.369
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:22:00.369
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:30:07.173
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:30:07.177
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:30:07.178
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:05.884
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:05.888
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:05.889
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:07.449
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:07.454
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:31:07.454
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 0 2015-12-14 10:34:19.887
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isSharedWithGit(ResourceUtil.java:135)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isValid(ResourceUtil.java:125)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getContainerForLocation(ResourceUtil.java:275)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getResourceForLocation(ResourceUtil.java:88)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInElements(RepositoriesView.java:802)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInContext(RepositoriesView.java:773)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.getContext(WorkbenchSourceProvider.java:412)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.updateActivePart(WorkbenchSourceProvider.java:478)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.updateActivePart(WorkbenchSourceProvider.java:439)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.getCurrentState(WorkbenchSourceProvider.java:135)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider$6.handleEvent(WorkbenchSourceProvider.java:676)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1484)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1275)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1281)
+	at org.eclipse.swt.widgets.Shell.filterProc(Shell.java:731)
+	at org.eclipse.swt.widgets.Display.filterProc(Display.java:1496)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY org.eclipse.ui 4 0 2015-12-14 10:34:22.432
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isSharedWithGit(ResourceUtil.java:135)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isValid(ResourceUtil.java:125)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getContainerForLocation(ResourceUtil.java:275)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getResourceForLocation(ResourceUtil.java:88)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInElements(RepositoriesView.java:802)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInContext(RepositoriesView.java:773)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.getContext(WorkbenchSourceProvider.java:412)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.updateActivePart(WorkbenchSourceProvider.java:478)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.updateActivePart(WorkbenchSourceProvider.java:439)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider.getCurrentState(WorkbenchSourceProvider.java:135)
+	at org.eclipse.ui.internal.services.WorkbenchSourceProvider$6.handleEvent(WorkbenchSourceProvider.java:676)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1484)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1275)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1281)
+	at org.eclipse.swt.widgets.Shell.filterProc(Shell.java:731)
+	at org.eclipse.swt.widgets.Display.filterProc(Display.java:1496)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:35:27.825
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.ReplaceWithPrevious", command "org.eclipse.egit.ui.team.ReplaceWithPrevious" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:35:27.828
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithCommit", command "org.eclipse.egit.ui.team.CompareWithCommit" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:35:27.828
+!MESSAGE Unable to create menu item "org.eclipse.egit.ui.team.CompareWithRevision", command "org.eclipse.egit.ui.team.CompareWithRevision" not defined
+
+!ENTRY org.eclipse.ui 4 4 2015-12-14 10:35:30.714
+!MESSAGE Failed to execute item org.eclipse.egit.ui.RepositoriesView
+!STACK 0
+org.eclipse.core.commands.ExecutionException: No activeWorkbenchWindow found while executing org.eclipse.ui.navigate.showIn
+	at org.eclipse.ui.handlers.HandlerUtil.noVariableFound(HandlerUtil.java:41)
+	at org.eclipse.ui.handlers.HandlerUtil.getVariableChecked(HandlerUtil.java:90)
+	at org.eclipse.ui.handlers.HandlerUtil.getActiveWorkbenchWindowChecked(HandlerUtil.java:211)
+	at org.eclipse.ui.internal.ShowInHandler.execute(ShowInHandler.java:58)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:290)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:499)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:169)
+	at org.eclipse.ui.internal.handlers.SlaveHandlerService.executeCommand(SlaveHandlerService.java:241)
+	at org.eclipse.ui.menus.CommandContributionItem.handleWidgetSelection(CommandContributionItem.java:829)
+	at org.eclipse.ui.menus.CommandContributionItem.access$19(CommandContributionItem.java:815)
+	at org.eclipse.ui.menus.CommandContributionItem$5.handleEvent(CommandContributionItem.java:805)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3562)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3186)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY org.eclipse.egit.core 4 0 2015-12-14 10:36:03.323
+!MESSAGE An exception occurred during push on URI https://github.com/borjabenejam/Llenguatges.git: Nothing to push.
+!STACK 0
+org.eclipse.jgit.errors.TransportException: Nothing to push.
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1197)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:197)
+	at org.eclipse.egit.ui.internal.push.PushWizard$PushJob.run(PushWizard.java:297)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.egit.ui 4 0 2015-12-14 10:36:03.334
+!MESSAGE Can't connect to any repository: https://github.com/borjabenejam/Llenguatges.git (Nothing to push.)
+
+!ENTRY org.eclipse.ui 4 0 2015-12-14 10:38:23.079
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isSharedWithGit(ResourceUtil.java:135)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isValid(ResourceUtil.java:125)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getContainerForLocation(ResourceUtil.java:275)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getResourceForLocation(ResourceUtil.java:88)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInElements(RepositoriesView.java:802)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInContext(RepositoriesView.java:773)
+	at org.eclipse.ui.internal.ShowInMenu.getContext(ShowInMenu.java:295)
+	at org.eclipse.ui.internal.ShowInMenu.fillMenu(ShowInMenu.java:150)
+	at org.eclipse.ui.internal.ShowInMenu.fill(ShowInMenu.java:126)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:741)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:822)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:474)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1281)
+	at org.eclipse.swt.widgets.Menu.gtk_show(Menu.java:676)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1738)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4371)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
+
+!ENTRY org.eclipse.ui 4 0 2015-12-14 10:38:25.774
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isSharedWithGit(ResourceUtil.java:135)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.isValid(ResourceUtil.java:125)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getContainerForLocation(ResourceUtil.java:275)
+	at org.eclipse.egit.core.internal.util.ResourceUtil.getResourceForLocation(ResourceUtil.java:88)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInElements(RepositoriesView.java:802)
+	at org.eclipse.egit.ui.internal.repository.RepositoriesView.getShowInContext(RepositoriesView.java:773)
+	at org.eclipse.ui.internal.ShowInMenu.getContext(ShowInMenu.java:295)
+	at org.eclipse.ui.internal.ShowInMenu.fillMenu(ShowInMenu.java:150)
+	at org.eclipse.ui.internal.ShowInMenu.fill(ShowInMenu.java:126)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:741)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:822)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:474)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:469)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1276)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1300)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1281)
+	at org.eclipse.swt.widgets.Menu.gtk_show(Menu.java:676)
+	at org.eclipse.swt.widgets.Widget.windowProc(Widget.java:1738)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4371)
+	at org.eclipse.swt.internal.gtk.OS._g_main_context_iteration(Native Method)
+	at org.eclipse.swt.internal.gtk.OS.g_main_context_iteration(OS.java:2342)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3184)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2701)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2665)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2499)
+	at org.eclipse.ui.internal.Workbench$7.run(Workbench.java:679)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:668)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:353)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:180)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:629)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:584)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1438)
